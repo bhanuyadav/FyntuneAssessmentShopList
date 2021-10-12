@@ -1,0 +1,28 @@
+{
+  "users": [
+    {
+      "name": "Radha rasoi",
+      "area": "Vadodara",
+      "category": "Restaurant",
+      "openingdate": "2021-10-14",
+      "closingdate": "2021-10-21",
+      "id": 2
+    },
+    {
+      "name": "Myshopp",
+      "area": "Nagpur",
+      "category": "Grocery",
+      "openingdate": "2021-10-12",
+      "closingdate": "2021-10-15",
+      "id": 3
+    },
+    {
+      "name": "Ravi general stores",
+      "area": "Banglore",
+      "category": "Grocery",
+      "openingdate": "2021-10-21",
+      "closingdate": "2021-10-29",
+      "id": 4
+    }
+  ]
+}
